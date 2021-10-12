@@ -1,0 +1,91 @@
+/*form {
+  padding: 20px;
+  background: #2c3e50;
+  color: #fff;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+form label,
+form input,
+form button {
+  border: 0;
+  margin-bottom: 3px;
+  display: block;
+  width: 100%;
+}
+form input {
+  height: 25px;
+  line-height: 25px;
+  background: #fff;
+  color: #000;
+  padding: 0 6px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+form button {
+  height: 30px;
+  line-height: 30px;
+  background: #e67e22;
+  color: #fff;
+  margin-top: 10px;
+  cursor: pointer;
+}*/
+
+.navbar .navbar-brand-wrapper {
+  background: #f2f2f1;
+}
+
+.sidebar {
+  background: #f2f2f1;
+}
+
+form .error {
+  color: #ff0000;
+}
+.navbar .navbar-brand-wrapper .navbar-brand img {
+  margin-left: 50px;
+}
+.col-form-label {
+  line-height: 2;
+}
+.sidebar .nav:not(.sub-menu) > .nav-item.active {
+  color:#57b657!important;
+}
+.alert-success {
+  width: 100%;
+}
+
+p {
+    font-size: 0.875rem;
+    margin-bottom: 0rem;
+    line-height: 1.3rem;
+}
+
+.saveSubmitBtn {
+  color:#fff;
+}
+
+
+element.style {
+}
+.expandable-table tr td {
+    padding: 14px;
+    font-size: 16px;
+}
+.modal-body {
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+}
+.card-body {
+    flex: 1 1 auto;
+     min-height: 1px; 
+     padding: 0rem; 
+}
+.navbar .navbar-brand-wrapper .navbar-brand img { 
+     margin-left: 0px; 
+}
+select.form-control, select.asColorPicker-input, .dataTables_wrapper select, .jsgrid .jsgrid-table .jsgrid-filter-row select, .select2-container--default select.select2-selection--single, .select2-container--default .select2-selection--single select.select2-search__field, select.typeahead, select.tt-query, select.tt-hint {
+  color: #000;
+}
